@@ -1,2 +1,2 @@
-# Website hosted by github
+# Website hosted by Github
 Maintaned by Kevin Tanaka
