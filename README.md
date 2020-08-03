@@ -1,2 +1,2 @@
-# Website hosted by Github
+# Website build using React JS
 Maintaned by Kevin Tanaka
